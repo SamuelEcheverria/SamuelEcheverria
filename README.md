@@ -13,6 +13,6 @@ proyectos y mis intereses.
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-*Desarrollo de software 
-*Manejo de bases de datos
-*Ciencia de datos
+- Desarrollo de software 
+- Manejo de bases de datos
+- Ciencia de datos
