@@ -11,7 +11,7 @@ proyectos y mis intereses.
 * Lugar de residencia: Guayaquil-Ecuador
 * Sitio web: https://samuelecheverria.github.io/SamuelEcheverria/ 
 ## Proyectos
-* [Lista de tus proyectos]
+- Inventario para registro de precios y reabastecimiento de ingredientes en un emprendimiento
 ## Intereses
 - Desarrollo de software 
 - Manejo de bases de datos
