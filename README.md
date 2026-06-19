@@ -53,6 +53,3 @@ A lo largo de mi formación académica y técnica, he adquirido competencias y p
 * Diseño y optimización de Bases de Datos Relacionales
 * Ciencia de Datos y Analítica Predictiva
 
-* Desarrollo de software de escritorio y web
-* Diseño y optimización de Bases de Datos Relacionales
-* Ciencia de Datos y Analítica Predictiva
